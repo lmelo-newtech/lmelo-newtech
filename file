@@ -1,25 +1,18 @@
 {
     "data": [
         {
-            "a": "10",
-            "b": "User",
-            "c": "false",
-            "d": "true",
-            "e": "true"
+            "info": "@157®1450¢true¥1500┐",
+            "id": "157",
+            "pesoBruto": "1450",
+            "ley": "true",
+            "pesoPuro": "1500"
         },
         {
-            "a": "11",
-            "b": "Group",
-            "c": "true",
-            "d": "false",
-            "e": "false"
-        },
-        {
-            "a": "12",
-            "b": "Permission",
-            "c": "true",
-            "d": "true",
-            "e": "true"
+            "info": "@203®2000.44¢false¥2100┐",
+            "id": "203",
+            "pesoBruto": "2000.44",
+            "ley": "false",
+            "pesoPuro": "2100"
         }
     ]
 }
