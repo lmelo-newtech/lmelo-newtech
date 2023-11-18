@@ -1,22 +1,25 @@
 {
     "data": [
-        [
-            "a":"1",
-            "b":Tiger Nixon",
-            "c":"System Architect",
-            "d":"Edinburgh",
-            "e":"5421",
-            "f":"2011\/04\/25",
-            "g":"$320,800"
-        ],
-        [
-            "a":"57",
-            "b":"Donna Snider",
-            "c":"Customer Support",
-            "d":"New York",
-            "e":"4226",
-            "f":"2011\/01\/25",
-            "g":"$112,000"
-        ]
+        {
+            "a": "10",
+            "b": "User",
+            "c": "false",
+            "d": "true",
+            "e": "true"
+        },
+        {
+            "a": "11",
+            "b": "Group",
+            "c": "true",
+            "d": "false",
+            "e": "false"
+        },
+        {
+            "a": "12",
+            "b": "Permission",
+            "c": "true",
+            "d": "true",
+            "e": "true"
+        }
     ]
 }
